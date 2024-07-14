@@ -2,9 +2,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nht99" alt="nht99" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+### PORTFOLIO
 
-</p>
+[nht.id.vn](https://nht.id.vn/)
+
+### MAIL
+
+[huutruong15599@gmail.com](mailto:huutruong15599@gmail.com)  
+
+### SOCIAL
+[Linkedin](https://www.linkedin.com/in/nguyen-huu-truong-624782200)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nht99&show_icons=true&locale=en&layout=compact" alt="nht99" /></p>
 
