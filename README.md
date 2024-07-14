@@ -1,7 +1,5 @@
 <h1 align="center">Hi there👋, I'm Truong</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nht99" alt="nht99" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 ### PORTFOLIO
 
 [nht.id.vn](https://nht.id.vn/)
@@ -12,6 +10,7 @@
 
 ### SOCIAL
 [Linkedin](https://www.linkedin.com/in/nguyen-huu-truong-624782200)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nht99" alt="nht99" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nht99&show_icons=true&locale=en&layout=compact" alt="nht99" /></p>
 
